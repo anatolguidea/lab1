@@ -1,4 +1,4 @@
-public class SortareBubble {
+public class Main {
     public static void main(String[] args) {
         int[] numere = {5, 2, 9, 1, 5, 6};
 
